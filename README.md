@@ -4,21 +4,6 @@ RESTful API para gestión e información de escalada indoor (rocódromos). Backe
 
 ---
 
-## 📋 Tabla de Contenidos
-
-- [Descripción](#descripción)
-- [Tecnologías](#tecnologías)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Ejecución](#ejecución)
-- [Endpoints API](#endpoints-api)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Base de Datos](#base-de-datos)
-- [Autor](#autor)
-
----
-
 ## 🎯 Descripción
 
 API REST para una aplicación web informativa sobre escalada indoor que proporciona:
@@ -397,7 +382,6 @@ Si necesitas añadir más orígenes, edita `CorsConfig.java`.
 
 ## 👤 Autor
 
-**Tu Nombre**
 - LinkedIn: [Juanjo](https://www.linkedin.com/in/juanjomo/)
 - GitHub: [Juanjomo4](https://github.com/juanjomo4/)
 
